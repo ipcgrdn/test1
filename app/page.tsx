@@ -65,7 +65,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            YouTube is the world's largest video-sharing platform.
+            YouTube is the largest video-sharing platform.
           </p>
         </a>
 

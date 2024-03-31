@@ -1,7 +1,9 @@
+import Image from "next/image";
+
 export function Loading() {
     return (
       <div className="h-full w-full">
-        <img src="https://liveblocks.io/loading.svg" alt="Loading" />
+        <Image src="https://liveblocks.io/loading.svg" alt="Loading" />
       </div>
     );
   }
